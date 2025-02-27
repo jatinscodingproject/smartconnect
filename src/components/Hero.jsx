@@ -1,5 +1,5 @@
 import React from 'react'
-import heroImg from '../assets/Rectangle 2.png'
+import heroImg from '../assets/Rectangle2.png'
 import heroCircle from '../assets/logo circle 1.png'
 function Hero() {
   return (

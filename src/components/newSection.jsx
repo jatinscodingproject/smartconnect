@@ -1,6 +1,6 @@
 import React from "react";
 import frame from '../assets/Frame 2.png';
-import heroImg from '../assets/Rectangle 2.png';
+import heroImg from '../assets/Rectangle2.png';
 
 export default function EnterpriseSection() {
     return (
