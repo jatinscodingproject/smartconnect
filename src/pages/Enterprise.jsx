@@ -47,6 +47,7 @@ function Enterprises() {
         <>
             <div className='px-4 py-2 md:px-8 md:py-4 lg:px-14 lg:py-10 font-dmSans'>
                 <EnterpriseSection />
+                <Section3 />
                 {/* <Hero /> */}
                 <Section1 />
                 <Section2 />
